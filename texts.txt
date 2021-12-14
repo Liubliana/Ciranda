@@ -1,0 +1,168 @@
+Escolha uma opção válida!
+Tela inicial
+1. Ver Rotina
+2. Conquistas
+3. Guarda-roupa
+4. Fazer atividades
+5. Configurações
+Tela de rotina
+0. Voltar
+1. Adicionar atividade a rotina
+2. Retirar atividade da rotina
+
+Digite o número da opcão:
+
+Criar atividade
+
+Nome da atividade (máx de 20 caracteres)
+Digite os materiais da atividade:
+Digite as instruções:
+Digite o tipo (P = Play, F = Food e S = Sleep):
+
+Rotina
+Sua rotina está vazia!
+
+Conquistas
+Você ainda não possui conquitas!
+
+Tela de Rotina
+
+Atividade removida com sucesso
+
+Atividade adicionada com sucesso
+
+Fim
+
+Atividades
+0. Voltar
+
+Pin incorreto! Por favor, tente novamente.
+
+Digite o PIN: 
+
+Confirmar atividade?
+0. Não
+1. Sim
+
+Nome: 
+Meteriais: 
+Descrição: 
+Tipo: 
+
+Atividade
+
+Retirar atividade
+Qual atividade deseja retirar?
+
+Adicione apenas a hora (de 0 a 23):
+Adicione os minutos (de 0 a 59):
+Adicione quantos minutos vão durar a atividade: 
+
+Não há espaço suficente na rotina!
+
+CIRANDA
+0. Encerrar
+1. Já tenho uma conta!
+2. Não tenho uma conta
+
+APP FINALIZADO
+Senha incorreta, por favor comece pelo email novamente.
+BEM-VINDO À TELA DE LOGIN!
+Email:
+Senha:
+Email incorreto, por favor tente novamente.
+BEM-VINDO À TELA DE CADASTRO!
+Email:
+Senha:
+Confirmar a Senha
+As senhas não estao iguais, por favor confirme novamente.
+AGORA CONFIGURE SEU PIN!
+Configurar Pin
+*Certas funcoes do aplicativo são acessíveis
+apenas aos responsáveis e protegidas por um
+PIN ultrasecreto. Por favor, digite seu pin:
+Confirmar PIN
+Os PINs não estão iguais,por favor confirme novamente.
+Caso deseje voltar, digite 0 no local do email.
+Pronto, agora vamos começar a aventura!
+Primeiro, escolha seu mascote!
+1. Guaxinim
+2. Gato
+3. Cachorro
+
+Pronto?
+1. Sim
+2. Não
+
+Guaxinim  /'≧ᴥ≦'\/)
+O guaxinim é um companheiro muito
+maneiro para as aventuuras, especialmente
+para quem gosta de sua aparência peluda
+Xinim
+Gato  /ᐠ｡‸｡ᐟ\S
+O gato é o companheiro perfeito para
+aqueles dias de preguiça onde você só
+quer ficar de boa na cama depois de
+encher a pança
+Miu
+Cachorro  ૮ ᴖﻌᴖ ა ~
+Ser bobalhão e companheiro são as maiores
+qualidades desse carinha, mas cuidado com
+seus biscoitos, ele é muito comilão
+Yzzo
+Agora escolha a cor!
+0. Voltar
+1. Verde
+2. Rosa
+3. Azul
+
+CONFIGURAÇÕES
+0. Voltar
+1. Cor do aplicativo
+2. Tamanho do texto
+3. Gerenciar conta
+
+Escolha:
+
+1. Pequeno
+2. Médio
+3. Grande
+
+Função em manutenção!
+
+
+CAÇA-LIXO
+
+
+    __________________
+  /                    \
+ |    Estou com fome!   |
+ |    Estou com sono!   |
+ |   Estou entediado!   |
+  \_____________________ >  /'TᴥT'\/)
+  \_____________________ >  /ᐠ=‸=ᐟ\S
+  \_____________________ >  ૮ xﻌx ა ~
+
+    /'≧ᴥ≦'\/)
+    /ᐠ｡‸｡ᐟ\S
+    ૮ ᴖﻌᴖ ა ~
+
+Deseja realizar a atividade?
+0. Não
+1. Sim
+Você não possui atividades!
+Atividade pendente:
+Atividade concluida!
+
+
+Procure algo...
+Verde!
+Amarelo!
+Vermelho!
+Você achou?
+1. Achei
+Ok, esperarei um pouco mais
+
+Alterações salvas!
+GUARDA-ROUPA
+Você não possui itens!
